@@ -22,7 +22,7 @@ The program offers two different options. Users can access a list of the importa
 * Sample-Results-Example.pdf File: A PDF file showcasing possible program outputs.
 ## How to Use the Program
 * Fill out the empty Excel file as demonstrated in the Example-Excel file.
-* Save the file as "myList.csv" in the same location as your program. If you encounter any issues in this step, you can refer to [this link]([https://cloudconvert.com/xls-to-csv]) for assistance.
+* Save the file as "myList.csv" in the same location as your program. If you encounter any issues in this step, you can refer to [this link](https://cloudconvert.com/xls-to-csv) for assistance.
 * Open the Exam.ipynb file and click on "Run All Cells."
 * Choose the format you want to access the results: List/Graph.
 * Your results will be displayed on the screen.
