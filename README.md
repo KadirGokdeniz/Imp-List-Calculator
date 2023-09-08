@@ -15,25 +15,25 @@ University students often struggle with organizing their priorities while prepar
 The program offers two different options. Users can access a list of the importance and priority of their courses throughout the semester or generate a result list as a bar graph. In the list format, different colors are used to distinguish the significance and priority of results, allowing users to easily access the important-priority list. The bar graph visualizes the results, providing quick access to the information.
 
 ## Project Contents
-Empty Excel File: This file serves as the primary template for users to input their data.
-Exam.ipynb File: Contains the Python program responsible for the main calculations.
-Example-Excel File: Demonstrates how users should input their data.
-myList.csv File: Stores user-input data in CSV format.
-Sample-Results-Example.pdf File: A PDF file showcasing possible program outputs.
+* Empty Excel File: This file serves as the primary template for users to input their data.
+* Exam.ipynb File: Contains the Python program responsible for the main calculations.
+* Example-Excel File: Demonstrates how users should input their data.
+* myList.csv File: Stores user-input data in CSV format.
+* Sample-Results-Example.pdf File: A PDF file showcasing possible program outputs.
 ## How to Use the Program
-Fill out the empty Excel file as demonstrated in the Example-Excel file.
-Save the file as "myList.csv" in the same location as your program. If you encounter any issues in this step, you can refer to this link for assistance.
-Open the Exam.ipynb file and click on "Run All Cells."
-Choose the format you want to access the results: List/Graph.
-Your results will be displayed on the screen.
+* Fill out the empty Excel file as demonstrated in the Example-Excel file.
+* Save the file as "myList.csv" in the same location as your program. If you encounter any issues in this step, you can refer to this link for assistance.
+* Open the Exam.ipynb file and click on "Run All Cells."
+* Choose the format you want to access the results: List/Graph.
+* Your results will be displayed on the screen.
 ## Requirements
-Python
-tkinter
-scikit-learn
-pandas
-numpy
-matplotlib
-Contact
+* Python
+* tkinter
+* scikit-learn
+* pandas
+* numpy
+* matplotlib
+## Contact
 For any questions or inquiries, please reach out to kadirqokdeniz@hotmail.com.
 
 Feel free to copy and paste this README text into your GitHub repository. Make sure to replace any placeholder text with your actual project details.
