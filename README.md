@@ -24,7 +24,7 @@ The program offers two different options. Users can access a list of the importa
 * Fill out the empty Excel file as demonstrated in the Example-Excel file.
 * Save the file as "myList.csv" in the same location as your program. If you encounter any issues in this step, you can refer to [this link](https://cloudconvert.com/xls-to-csv) for assistance.
 * Open the Exam.ipynb file and click on "Run All Cells."
-* Choose the format you want to access the results: List/Graph.
+* Choose the format you want to access the results: List or Graph.
 * Your results will be displayed on the screen.
 ## Requirements
 * Python
