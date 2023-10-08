@@ -42,3 +42,5 @@ For further details on how the program operates and sample results, refer to the
 
 Feel free to reach out for any questions or assistance.
 
+# Contact
+For any inquiries or questions, please feel free to contact me at kadirqokdeniz@hotmail.com.
