@@ -1,6 +1,12 @@
-Name,Term,Term,,,,,,,
+Name,Term,,,,,,,,
 Kadir,Autumn,,,,,,,,
-Lessons,Akts,Midterm,Final,Projects,Quiz,MidtermDate,FinalDate,ProjectDate,QuizDate
-Algorithms,5,30,50,30,0,12.10.2023,22.12.2023,06.11.2023,
-Computer Architecture,5,30,80,0,0,16.10.2023,23.12.2023,,
-C Language,6,10,80,20,,19.10.2023,2.01.2023,12.11.2023,
+Lesson,Akts,Midterm,Final,Project,Quiz,MidtermDate,FinalDate,ProjectDate,QuizDate
+Data Mining,6,25,60,15,,,,,
+Special Topics1,6,40,60,,,,,,
+Operating Systems,5,25,60,,15,,,,
+Microprocessors and Embedded Systems,5,20,50,20,10,,,,
+Artifical Intelligence,4,40,60,,,,,,
+Computer Graphics,4,40,60,,,,,,
+Biomimicry,3,40,60,,,,,,
+Scientific And Cultural Activities,3,40,60,,,,,,
+Occuputional Health and Safety,1,40,60,,,,,,
