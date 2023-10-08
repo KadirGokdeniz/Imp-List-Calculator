@@ -42,5 +42,21 @@ For further details on how the program operates and sample results, refer to the
 
 Feel free to reach out for any questions or assistance.
 
+## Dependencies
+
+Before running this project, make sure you have the following dependencies installed:
+
+- [scikit-learn](https://scikit-learn.org/stable/index.html)
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [tkinter](https://docs.python.org/3/library/tkinter.html)
+
+You can install these dependencies using the following commands:
+
+```bash
+pip install scikit-learn
+pip install pandas
+pip install numpy
+
 # Contact
 For any inquiries or questions, please feel free to contact me at kadirqokdeniz@hotmail.com.
