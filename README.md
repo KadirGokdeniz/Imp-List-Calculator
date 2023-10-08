@@ -58,5 +58,5 @@ pip install scikit-learn
 pip install pandas
 pip install numpy
 ```
-##Contact
+## Contact
 For any inquiries or questions, please feel free to contact me at kadirqokdeniz@hotmail.com.
