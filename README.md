@@ -1,5 +1,5 @@
 
-<h3 align="center">Importance List Calculator</h3>
+# Importance List Calculator
 
 ## Description
 
